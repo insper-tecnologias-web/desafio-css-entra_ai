@@ -169,6 +169,11 @@ Algumas informações úteis e dicas:
  .btn > * {
    position: relative;
  }
+ .autoresize{
+   width: 100%;
+   height: 100%;
+   resize: none;
+ }
  
  .btn:before {
    content: "";
