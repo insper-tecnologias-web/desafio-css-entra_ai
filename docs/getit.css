@@ -140,7 +140,7 @@ Algumas informações úteis e dicas:
   background: #ead3a7;
   border-radius: 2px;
   display: inline-block;
-  height: 200px;
+  height: 150px;
   margin: 1rem;
   position: relative;
   width: 300px;
@@ -169,7 +169,7 @@ Algumas informações úteis e dicas:
   background:#9de0f5;
   border-radius: 2px;
   display: inline-block;
-  height: 200px;
+  height: 150px;
   margin: 15px;
   
   position: relative;
@@ -181,7 +181,7 @@ Algumas informações úteis e dicas:
   background:#ef89ba;
   border-radius: 2px;
   display: inline-block;
-  height: 200px;
+  height: 150px;
   margin: 1rem;
   position: relative;
   width: 300px;
@@ -195,7 +195,7 @@ Algumas informações úteis e dicas:
   height: 200px;
   margin: 1rem;
   position: relative;
-  width: 300px;
+  width: 150px;
   border-radius: 15px;
   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
  }
@@ -203,7 +203,7 @@ Algumas informações úteis e dicas:
   background:   #abe9c1;
   border-radius: 2px;
   display: inline-block;
-  height: 200px;
+  height: 150px;
   border-radius: 15px;
   margin: 1rem;
   position: relative;
