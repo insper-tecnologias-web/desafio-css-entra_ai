@@ -5,7 +5,7 @@ DUPLA/TRIO:
 - João Pedro Rodrigues dos Santos
 - DIGITE O NOME DO SEGUNDO INTEGRANTE
 - DIGITE O NOME DO TERCEIRO INTEGRANTE
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
+- Link do GitHub Pages: insper-tecnologias-web.github.io/desafio-css-entra_ai/
 
 ## Desafio CSS
 
