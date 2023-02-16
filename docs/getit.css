@@ -259,27 +259,35 @@ Algumas informações úteis e dicas:
 }
 .card-rotation-4:hover{
   transform: rotate(4deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-5:hover{
   transform: rotate(1deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-6:hover{
   transform: rotate(-1deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-7:hover{
   transform: rotate(2.6deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-8:hover{
   transform: rotate(-2.6deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-9:hover{
   transform: rotate(3.2deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-10:hover{
   transform: rotate(-3.2deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .card-rotation-11:hover{
   transform: rotate(10deg);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
 }
 .autoresize{
   font-size: 1em;
